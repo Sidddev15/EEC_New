@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Montserrat&display=swap');
+
+:root {
+    /* Industrial */
+    --color-1: #336699;
+    --color-2: #339966;
+    --color-3: #F5F5F5;
+    /* global */
+    --color-4: #333333;
+    --color-5: #FF4500;
+    --color-6: #F5F5F5;
+    /* fonts */
+    --font-1: 'Inter', sans-serif;
+    --font-2: 'Montserrat', sans-serif;
+    --grid-gutter-width: 30px;
+    --gray: #555;
+    --link-hover-color: #2866c7;
+}
+
+a {cursor: pointer;}
+.card { border-radius: 0; }
+
+body {
+    scroll-behavior: smooth;
+}
